@@ -1,0 +1,33 @@
+[
+    {
+        "name": "TextInput",
+        "type": "textField",
+        "label": ""
+    },
+    {
+        "name": "RadioInput",
+        "type": "radioField",
+        "label": "",
+        "options": [
+            "Choice1",
+            "Choice2"
+        ]
+    },
+    {
+        "name": "CheckboxInput",
+        "type": "checkboxField",
+        "label": "",
+        "options": [
+            "Yes"
+        ]
+    },
+    {
+        "name": "DropdownInput",
+        "type": "dropdownField",
+        "label": "",
+        "options": [
+            "Default",
+            "DesiredOption"
+        ]
+    }
+]
