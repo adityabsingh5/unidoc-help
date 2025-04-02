@@ -47,10 +47,3 @@ The program will:
    - CheckboxInput: "Yes"
    - DropdownInput: "DesiredOption"
 4. Save the filled PDF as `filled_sample-pdf.pdf`
-
-## Known Issues
-- Dropdown fields may not properly update from "Default" to selected value
-- This is being investigated with UniDoc support
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details. 
